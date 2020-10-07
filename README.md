@@ -11,8 +11,6 @@ Heroes of Pymoli is the most recent online game from a gaming company. The task 
 <h3>General Notes</h3>
 Repo contains folder whith Jupyter notebook and resources
 
-<ul><li>Python 3.6</li>
-  <li>Pandas</li></ul>
 
 <h3>The Data Analysis will include:</h3>
 
