@@ -5,36 +5,36 @@ Heroes of Pymoli is the most recent online game from a gaming company. The task 
 
 The Data Analysis will include:
 
-Player Count
+<b>Player Count</b>
 
 
-Purchasing Analysis
+<b>Purchasing Analysis</b>
 number of unique items
 average price
 
-Gender Demographics
+<b>Gender Demographics</b>
 Percentage and Count of Male Players
 Percentage and Count of Female Players
 Percentage and Count of Other / Non-Disclosed
 
-Purchasing Analysis (Gender)
+<b>Purchasing Analysis (Gender)</b>
 purchase count
 avg. purchase price
 avg. purchase total per person 
 
-Age Demographics
+<b>Age Demographics</b>
 numbers and percentages of players by age group
 
-Purchasing Analysis (Age)
+<b>Purchasing Analysis (Age)</b>
 purchase count
 avg. purchase price
 avg. purchase total per person 
 
-Top Spenders
+<b>Top Spenders</b>
 Find the top 5 players who spend the most
 
-Most Popular Items
+<b>Most Popular Items</b>
 Retrieve the top 5 selling items
 
-Most Profitable Items
+<b>Most Profitable Items</b>
 The 5 most profitable items
