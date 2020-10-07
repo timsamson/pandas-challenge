@@ -1,7 +1,13 @@
 # Pandas-Challenge
 
-<h3>Into</h3>
+<h3>Intoduction</h3>
 Heroes of Pymoli is the most recent online game from a gaming company. The task at hand is to analyze the data using Pandas to look for trends and charactieristics amoung the players. Using pandas we will analyze player count, gender makeup and purchasing habits, top spenders and best products. 
+
+<h3>Technologies</h3>
+
+<ul><li>Python 3.6</li>
+  <li>Pandas</li></ul>
+
 
 <h3>The Data Analysis will include:</h3>
 
