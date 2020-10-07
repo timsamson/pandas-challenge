@@ -11,44 +11,44 @@ Heroes of Pymoli is the most recent online game from a gaming company. The task 
 
 <h3>The Data Analysis will include:</h3>
 
-<b>Player Count</b>
+<ul><li><b>Player Count</b></li>
 
 
-<b>Purchasing Analysis</b>
+<li><b>Purchasing Analysis</b>
 
 number of unique items
-average price
+average price</li>
 
-<b>Gender Demographics</b>
+<li><b>Gender Demographics</b>
 
 Percentage and Count of Male Players
 Percentage and Count of Female Players
-Percentage and Count of Other / Non-Disclosed
+Percentage and Count of Other / Non-Disclosed</li>
 
-<b>Purchasing Analysis (Gender)</b>
-
-purchase count
-avg. purchase price
-avg. purchase total per person 
-
-<b>Age Demographics</b>
-
-numbers and percentages of players by age group
-
-<b>Purchasing Analysis (Age)</b>
+<li><b>Purchasing Analysis (Gender)</b>
 
 purchase count
 avg. purchase price
-avg. purchase total per person 
+avg. purchase total per person </li>
 
-<b>Top Spenders</b>
+<li><b>Age Demographics</b>
 
-Find the top 5 players who spend the most
+numbers and percentages of players by age group</li>
 
-<b>Most Popular Items</b>
+<li><b>Purchasing Analysis (Age)</b>
 
-Retrieve the top 5 selling items
+purchase count
+avg. purchase price
+avg. purchase total per person </li>
 
-<b>Most Profitable Items</b>
+<li><b>Top Spenders</b>
 
-The 5 most profitable items
+Find the top 5 players who spend the most</li>
+
+<li><b>Most Popular Items</b>
+
+Retrieve the top 5 selling items</li>
+
+<li><b>Most Profitable Items</b>
+
+The 5 most profitable items</li></ul>
