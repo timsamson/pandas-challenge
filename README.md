@@ -3,7 +3,7 @@
 Into
 Heroes of Pymoli is the most recent online game from a gaming company. The task at hand is to analyze the data using Pandas to look for trends and charactieristics amoung the players. Using pandas we will analyze player count, gender makeup and purchasing habits, top spenders and best products. 
 
-The Data Analysis will include:
+<h3>The Data Analysis will include:</h3>
 
 <b>Player Count</b>
 
